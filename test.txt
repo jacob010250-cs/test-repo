@@ -1,4 +1,4 @@
 test
 
 Kim Hyunsu, CES, 202300945
-print("hello")
+송수빈 2023학번 컴퓨터공학부
